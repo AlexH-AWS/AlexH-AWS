@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Alex 👋
 
-<!--
-**AlexH-AWS/AlexH-AWS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring Rust and building small command-line programs — one experiment at a time.
 
-Here are some ideas to get you started:
+```text
+alex@github:~$ cat focus.txt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦀 Rust
+🛠️ Small tools & experiments
+🧪 Build → test → improve
+```
+
+## On my workbench
+
+- **Rust** — experimenting with the language through small programs.
+- **Command-line tools** — keeping things simple and practical.
+- **Better builds** — making projects easier to compile, run, and understand.
+
+---
+
+*Build something. Learn something. Keep going.*
